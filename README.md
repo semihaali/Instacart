@@ -31,4 +31,5 @@ Libraries: Pandas, NumPy, OS, Matplotlib, Seaborn, and SciPy
 
 # Disclaimer
 Instacart is a legitimate company that has shared its data online, but the customer data is fictional and intended solely for Career Foundry's Data Analytics program.
+
 Citations: The Instacart Online Grocery Shopping Dataset 2017, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 18-02-2024.
